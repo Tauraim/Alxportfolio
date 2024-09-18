@@ -5,8 +5,8 @@ Portfolio Project
  Introduction 
  This is one of our key data collection and storage program,
  Authors: Taurai Muzembe full stack developer 
- social:
- Project blog:
+ social:www.linkedin.com/in/tauraimuzembe
+ Project blog:https://www.linkedin.com/pulse/registration-database-management-taurai-muzembe-zceff
 
 
  Installation:
